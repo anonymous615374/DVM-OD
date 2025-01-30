@@ -9,6 +9,7 @@ This repository contains the source code accompanying the paper **"Robust Discri
 - **Model/**: Contains the main implementation of the DVM-OD algorithm.
 - **Results/**: Stores results and outputs generated during the experiments.
 - **Data/**: Contains datasets (both real-world and synthetic) used for training and evaluation.
+- **Notebooks/**: Contains the notebook version.
 - **Code files:**
 
   1. **`create_synthetic_data.py`**: Generates synthetic datasets for experimentation. A notebook version (`create_synthetic_data.ipynb`) is also provided for easier experimentation.
