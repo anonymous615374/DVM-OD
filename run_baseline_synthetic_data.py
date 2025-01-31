@@ -34,16 +34,7 @@ dataset_names = np.array(['1_ALOI'])
                         #  '18_Ionosphere', '19_landsat', '20_letter', '21_Lymphography', '22_magic.gamma', '23_mammography', '24_mnist', '25_musk',
                         #  '26_optdigits', '27_PageBlocks', '28_pendigits', '29_Pima', '30_satellite', '31_satimage-2', '32_shuttle', '33_skin', 
                         #  '34_smtp', '35_SpamBase', '36_speech', '37_Stamps', '38_thyroid', '39_vertebral', '40_vowels', '41_Waveform', '42_WBC',
-                        #  '43_WDBC', '44_Wilt','20news_0', '20news_1', '20news_2', '20news_3', '20news_4', '20news_5', 'agnews_0', 'agnews_1', 'agnews_2',
-                        #  'agnews_3', 'amazon', 'imdb', 'yelp', '45_wine', '46_WPBC', '47_yeast','CIFAR10_0', 'CIFAR10_1', 'CIFAR10_2', 'CIFAR10_3', 'CIFAR10_4',
-                        #  'CIFAR10_5','CIFAR10_6','CIFAR10_7', 'CIFAR10_8','CIFAR10_9','FashionMNIST_0','FashionMNIST_1','FashionMNIST_2','FashionMNIST_3','FashionMNIST_4','FashionMNIST_5',
-                        #  'FashionMNIST_6','FashionMNIST_7','FashionMNIST_8','FashionMNIST_9','SVHN_0','SVHN_1','SVHN_2','SVHN_3','SVHN_4',
-                        #  'SVHN_5','SVHN_6','SVHN_7','SVHN_8','SVHN_9','MNIST-C_brightness', 'MNIST-C_canny_edges','MNIST-C_dotted_line', 'MNIST-C_fog',
-                        #  'MNIST-C_glass_blur','MNIST-C_identity','MNIST-C_impulse_noise','MNIST-C_motion_blur','MNIST-C_rotate','MNIST-C_scale','MNIST-C_shear',
-                        #  'MNIST-C_shot_noise','MNIST-C_spatter','MNIST-C_stripe','MNIST-C_translate','MNIST-C_zigzag','MVTec-AD_bottle',
-                        #  'MVTec-AD_cable','MVTec-AD_capsule','MVTec-AD_carpet','MVTec-AD_grid','MVTec-AD_hazelnut','MVTec-AD_leather',
-                        #  'MVTec-AD_metal_nut','MVTec-AD_pill','MVTec-AD_screw','MVTec-AD_tile','MVTec-AD_toothbrush',
-                        #  'MVTec-AD_transistor','MVTec-AD_wood','MVTec-AD_zipper'])
+                        #  '43_WDBC', '44_Wilt', '45_wine', '46_WPBC', '47_yeast'])
 models_list = [
     "CBLOF",
     "KNN",
